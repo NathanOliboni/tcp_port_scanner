@@ -202,14 +202,6 @@ tcp-port-scanner/
 └── requirements.txt    # Dependências (vazio - usa bibliotecas padrão)
 ```
 
-### Contribuindo
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)
-3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`)
-4. Push para a branch (`git push origin feature/nova-feature`)
-5. Abra um Pull Request
-
 ### Melhorias Futuras
 
 - [ ] Suporte a scan UDP
@@ -222,14 +214,6 @@ tcp-port-scanner/
 ## 📜 Licença
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-## 🤝 Suporte
-
-Se você encontrar bugs ou tiver sugestões:
-
-1. Abra uma [issue](https://github.com/seu-usuario/tcp-port-scanner/issues)
-2. Envie um email para: seu-email@example.com
-3. Contribua com código via Pull Request
 
 ## 📚 Referências
 
