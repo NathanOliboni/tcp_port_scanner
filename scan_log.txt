@@ -1,0 +1,21 @@
+[2025-07-05 11:37:50] Scan realizado
+Alvo: 192.168.0.1
+Range de portas: 1-1024
+Portas abertas: 22, 80
+--------------------------------------------------
+
+[2025-07-05 11:39:42] Scan realizado
+Alvo: 192.168.1.1
+Range de portas: 1-1000
+Duração: 10.12 segundos
+Nenhuma porta aberta encontrada
+--------------------------------------------------
+
+[2025-07-05 11:40:01] Scan realizado
+Alvo: 192.168.0.1
+Range de portas: 1-1000
+Duração: 10.14 segundos
+Portas abertas (2):
+  22 (SSH)
+  80 (HTTP)
+--------------------------------------------------
